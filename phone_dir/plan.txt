@@ -1,0 +1,3 @@
+register user
+delete user
+allUsers

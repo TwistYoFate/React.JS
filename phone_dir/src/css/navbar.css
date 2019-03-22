@@ -1,0 +1,24 @@
+.nav{
+    display:block;
+    background:yellow;
+    height:10vh;
+    width:100%;
+}
+
+.nav div{
+    display:inline-block;
+    height:6vh;
+    width:20vw;
+    padding:0 4px;
+    text-align:center;
+    position:relative;
+    left:30%;
+    padding-top:4vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+}
+
+
+.nav div:hover{
+    background:white;
+}
