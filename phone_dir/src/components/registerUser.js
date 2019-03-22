@@ -25,9 +25,13 @@ class RegisterUser extends Component {
             <form onSubmit={this.handleSubmit}>
                 <input type="text" id="username" placeholder="Name" onChange={this.handleChange} />
                 <input type="text" id="phone" placeholder="Contact" onChange={this.handleChange} />
-                <input type="submit" id="add" value='Add' style={{":action":{background:"white"}}} />
+                <input type="submit" id="add" value='Add' />
             </form>
             <div className="output">
+                <div>
+                    <span className="uh">The details to be added are :</span>                
+                </div>
+                <br />
                 <div>
                     <span className="uh">Username: &nbsp;</span>                
                     <span className="ue">{this.state.username}</span>

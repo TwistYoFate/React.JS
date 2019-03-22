@@ -26,6 +26,13 @@ button{
     width:100px;
     height:40px;
 }
+
+button:active{
+    background:white;
+}
+button:hover{
+    color:white;
+}
 /* 
 #up{
     position:relative;

@@ -6,7 +6,7 @@ import Navbar from './navbar';
 
 class Home extends Component {
     state={
-        users:[{username:'day',phone:'23'},{username:'bay',phone:'12'}]
+        users:[]
     }
 
     addNewUser=(user)=>{

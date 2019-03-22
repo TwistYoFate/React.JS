@@ -36,6 +36,12 @@
 .ue{
     color:yellow;
 }
+#add:hover{
+    color:white;
+}
+#add:active{
+    background:white;
+}
 
 
 #add{

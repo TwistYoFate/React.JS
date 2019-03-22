@@ -7,7 +7,7 @@ import '../css/displayUsers.css'
                 <tr>
                        <td id="un">{user.username}&nbsp;</td>
                        <td id='up'>{user.phone}</td>
-                       <td><button style={{':hover':{background:'white'}}} onClick={()=>{deleteUser(user.phone)}}>Delete</button></td>
+                       <td><button onClick={()=>{deleteUser(user.phone)}}>Delete</button></td>
                 </tr>
             </table>)
         })
