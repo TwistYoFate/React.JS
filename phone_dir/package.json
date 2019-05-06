@@ -2,7 +2,7 @@
   "name": "phone_dir",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://TwistYoFate.github.io/phoneDirectory_React.JS",
+  "homepage": "http://TwistYoFate.github.io/React.JS",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
