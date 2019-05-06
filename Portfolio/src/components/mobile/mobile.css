@@ -1,0 +1,10 @@
+.mobile{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.space{
+    height:50px;
+    width:100%;
+}

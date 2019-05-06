@@ -1,0 +1,16 @@
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Caveat|Dancing+Script|Fredoka+One|Gloria+Hallelujah|Luckiest+Guy|Major+Mono+Display|Permanent+Marker|Poiret+One|Sacramento|Satisfy|ZCOOL+KuaiLe" rel="stylesheet">
+
+font-family: 'Dancing Script', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'ZCOOL KuaiLe', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Major Mono Display', monospace;
+font-family: 'Special Elite', cursive;
+

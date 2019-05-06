@@ -1,0 +1,26 @@
+.contact{
+    position:relative;
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-around;
+    left:16%;
+    top:200px;
+}
+.contact img{
+    padding-top:15px;
+    height:100%;
+    width:10%;
+}
+
+.contact div span{
+    font-family:'Special Elite', cursive;
+    font-size: 1.3rem;
+    color:#2196F3;
+    position:relative;
+    top:-20px;
+}
+
+.contact img:hover{
+    width:12%;
+}

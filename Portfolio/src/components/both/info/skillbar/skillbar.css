@@ -1,0 +1,21 @@
+
+.skillbar span{
+    font-family: 'Amatic SC', cursive;
+    display:inline-block;
+    padding:2px 10px;
+    background: #2196F3;
+    color:black;
+    border:1px solid black;
+    margin:10px;
+    font-size: 2em;
+ }
+
+.skillbar span:hover{
+    background: white;
+    color:#2196F3;
+}
+
+a{
+    text-decoration: none;
+    outline:none;
+}

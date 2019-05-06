@@ -1,0 +1,29 @@
+.Drawer{
+    font-family:'Special Elite', cursive;
+    font-size:1.3em;
+    height:100vh;
+    position:fixed;
+    width:60%;
+    z-index: 200;
+    background:white;
+    box-shadow: 10px 10px 100px 5px black;
+    transform: translateX(-500%);
+    transition: transform 0.4s ease-out;
+}
+
+.space{
+    margin-top:15vh;
+    padding:0;
+    height:20vh
+}
+
+.link{
+    cursor:pointer
+}
+
+.open{
+    transform: translateX(0);
+}
+
+
+
