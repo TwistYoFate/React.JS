@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/phoneDirectory_React.JS/precache-manifest.76d90e299652a3e65a6b700dfc6a549f.js"
+  "/TwistYoFate/React.JS/precache-manifest.6f951636c3dd77bad59d1e2dfaf4b53d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/phoneDirectory_React.JS/index.html", {
+workbox.routing.registerNavigationRoute("/TwistYoFate/React.JS/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
